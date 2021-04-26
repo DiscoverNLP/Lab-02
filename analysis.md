@@ -10,8 +10,6 @@ NLP Lab 02
 
 (Your Name(s) Here) 
 
-Spring 2021
-
 ---
 
 ## Token Analysis Questions

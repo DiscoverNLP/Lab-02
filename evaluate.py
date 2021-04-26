@@ -75,4 +75,6 @@ if __name__ == '__main__':
 
     evaluate(tokens, open(reference_path), args.hypothesis, args.verbosity)
 
+# Discover NLP course materials authored by Julie Medero, Xanda Schofield, and Richard Wicentowski
+# This work is licensed under a Creative Commons Attribution-ShareAlike 2.0 Generic License# https://creativecommons.org/licenses/by-sa/2.0/
     
